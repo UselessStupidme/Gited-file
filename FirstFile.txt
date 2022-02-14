@@ -1,0 +1,5 @@
+My first text file just to learn git
+
+I hope every thing will be fine.
+
+Useless Stupid me
